@@ -1,8 +1,18 @@
 /* akdlsfjj */
 
 
-.header {
+.title {
     text-align: center;
     color: red;
     background-color: rgb(243, 102, 67);
+}
+
+.title:hover {
+    background-color: rgb(214, 115, 91);
+    transition: 0.5s;
+}
+
+.header p {
+    text-align: center;
+    color: black;
 }
